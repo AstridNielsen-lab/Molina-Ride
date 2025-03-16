@@ -12,14 +12,14 @@ export const vehicles: Vehicle[] = [
     id: 'scooter-1',
     name: 'Patinete Elétrico Pro',
     type: 'scooter',
-    image: 'https://images.unsplash.com/photo-1580927752452-89d86da3fa0a',
+    image: 'https://th.bing.com/th/id/OIP.DBtbDltEf8k7Dw-xn2rrWAHaE8?rs=1&pid=ImgDetMain',
     description: 'Patinete elétrico com velocidade máxima de 25km/h e design moderno.'
   },
   {
     id: 'jetski-1',
     name: 'Jet Ski Performance',
     type: 'jetski',
-    image: 'https://images.unsplash.com/photo-1615299634564-d6457398de41',
+    image: 'https://th.bing.com/th/id/OIP.oBnc0LNOGTFQZpXXAF8buAHaE8?rs=1&pid=ImgDetMain',
     description: 'Jet ski potente para aventuras aquáticas inesquecíveis.'
   },
   {
